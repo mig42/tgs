@@ -1,7 +1,7 @@
 Quake III Arena GPL source release
 ==================================
 
-This file contains the following sections:
+That file contains the following sections:
 
 LICENSE
 GENERAL NOTES
